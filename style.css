@@ -1,0 +1,157 @@
+body{
+    font-family: 'Hind Madurai', sans-serif;
+font-family: 'IBM Plex Serif', serif;
+font-family: 'Island Moments', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Tajawal', sans-serif;
+}
+
+
+.main{
+    margin-top: 30px;
+    display: flex;
+    margin-bottom:50px;
+}
+.main-title{
+    padding-left: 30px;
+    padding-top: 60px;
+    width: 50%;
+}
+.main-section{
+    display: flex;
+    padding-left: 100px;
+}
+.main-btn{
+    background-color: rgb(168, 45, 45);
+    color: #ffff;
+    padding: 15px;
+    font-weight: 900;
+    border-radius: 5px;
+}
+.person {
+    width: 50%;
+    margin-top: -50px;
+    padding-left: 200px;
+}
+.person img{
+    margin-bottom:200px ;
+       width: 80%;
+       
+     
+}
+#main-hedding{
+    color: cornflowerblue;
+}
+.golas{
+    display: flex;
+    flex-direction: column;
+    padding: 0 50px;
+}
+.golas-middle{
+    display: flex;
+}
+.ghori{
+    
+    text-align: center;
+}
+
+.rumon{
+   background-color: rgb(245, 231, 245);
+   padding: 10px;
+   height: 400px;
+   border-radius: 30px;
+   
+
+}
+.rumon img{ 
+    width: 50%;
+    
+}
+.juned{
+    background-color: rgb(66, 55, 66);
+    padding: 10px;
+    height: 400px;
+    margin: 0 50px;
+    border-radius: 30px;
+ }
+ .juned img{
+     width:50%;
+ }
+
+.jony{
+    background-color: rgb(32, 27, 32);
+   padding: 10px;
+   height: 400px;
+   border-radius: 30px;
+ }
+ .jony img{
+    width:50%;
+}
+
+ span{
+     color: orange;
+ }
+ .main-codding{
+     margin-bottom: 30px;
+     
+ }
+.codding-hedding{
+    display: flex;
+}
+ .codding img{
+     width: 50%;
+   
+
+ }
+ .code-btn{
+    background-color: rgb(168, 45, 45);
+    color: #ffff;
+    padding: 15px;
+    font-weight: 900;
+    border-radius: 5px;
+}
+
+/* .pepe{
+    margin-right: 20px;
+    margin-left: 20px;
+   
+} */
+
+/* .mim{
+width: 100%;
+padding-left: 10px;
+
+}
+.mim img{
+    width: 60%;
+} */
+
+/* .jannat{
+    width: 70%;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.jannat img{
+   
+    width: 80%;
+}
+
+#tamim{
+    color: tomato;
+}
+
+.tamanna{
+    margin: auto;
+}
+.tuktuki{
+    color: pink;
+} */
+.corona{
+    width: 70%;
+    padding: 2%;
+}
+.corona img{
+    width: 60%;
+}
